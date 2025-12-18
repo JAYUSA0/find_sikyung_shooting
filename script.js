@@ -43,7 +43,7 @@ let bgmStarted = false;
  ***************/
 window.onload = () => {
   bgm = document.getElementById("bgm");
-  bgm.src = "https://raw.githubusercontent.com/JAYUSA0/bgm/main/히로인%20citypop4_master.wav";
+  bgm.src = "https://raw.githubusercontent.com/JAYUSA0/bgm/main/vocal only.mp3";
   bgm.volume = 0.4;
   init();
 };
